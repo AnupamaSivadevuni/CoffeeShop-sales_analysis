@@ -26,6 +26,14 @@ This Power BI dashboard provides operational intelligence for coffee shop manage
 2. **Shift Switcher Bookmarks:** Interactive buttons letting managers isolate morning vs. afternoon store performance instantly.
 3. **Top Selling Products Table:** Breakdown of top revenue-generating menu items by shift period.
 
+🚀 How to View
+Download the Coffee_Shop_Sales_Analysis.pbix file.
+
+Open in Microsoft Power BI Desktop to test interactive shift bookmarks and detailed metrics.
+
+For a quick visual review without Power BI Desktop, check Coffee_Shop_Dashboard_Overview.pdf.
+
+
 ---
 
 ## 📁 Repository Structure
@@ -35,9 +43,3 @@ This Power BI dashboard provides operational intelligence for coffee shop manage
 └── Coffee_Shop_Dashboard_Overview.pdf  # PDF report export for visual review
 
 
-🚀 How to View
-Download the Coffee_Shop_Sales_Analysis.pbix file.
-
-Open in Microsoft Power BI Desktop to test interactive shift bookmarks and detailed metrics.
-
-For a quick visual review without Power BI Desktop, check Coffee_Shop_Dashboard_Overview.pdf.
